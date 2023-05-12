@@ -1,11 +1,13 @@
 # SnowHeight
-For Dokumentation
+For Documentation
 
 ToDo 12.05.23
-  1. Controller
-    Hardware check, ggf. Komponenten bestellen
+  1. Controller:
+    Check all components
+    Order missing parts today!
     Software check
-  3. Handy App
-    Konzept erstellen
+  3. Handy App:
+    Create a concept
   5. Verwaltungskonsole
-  6. Konzept erstellen
+    Create a concept
+    Create the database
