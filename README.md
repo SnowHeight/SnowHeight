@@ -27,8 +27,14 @@ For Documentation
   Done:
     Bluetooth-Module ordered,
     MicroController setup,
-    Atmel-Studio setup
-    Project was updated to the Controller
+    Atmel-Studio setup,
+    Project was updated to the Controller,
+      Hardware: 
+      Ultrasonic - HCSR04,
+      RTC-Timer . ZS042,
+      Servomotor with attached Laser,
+      Humidity + Temp. Sensor - BME280,
+      SD-Card-Module
   2. Handy App:
   ToDo:
     Create a concept
