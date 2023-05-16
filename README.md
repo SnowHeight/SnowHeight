@@ -39,8 +39,8 @@ For Documentation
     
 05.05.23
 ToDo:
-  Select Project
-  Select Team
+  Select a project
+  Cerate a team
 Done:
   Project SnowHeight was selected
   Team was selected
@@ -51,13 +51,22 @@ Done:
 General informations:
 
 Handy App requirements:
-1.Read data from the SD Card in the weather station & view of the data (check if the sensors are ok)
-2.Read the EEPROM of the Controller via Bluetooth (change Meta-Data via the App, height of the station - mandatory for measurement of the snow height, duration between ultrasonic, duration between laser measurement, 
-Duration between laser movement und measurement, matrix for the laser measurement as two dimensional array)
+1. Read data from the SD Card & create a chart (to check if the sensors are ok).
+2. Read the EEPROM of the Controller via Bluetooth (change Meta-Data via the App, height of the station (mandatory for measurement of the snow height), duration between ultrasonic, duration between laser movement und measurement, matrix for the laser measurement as two dimensional array).
+3. Send changed settings to the EEPROM 
 
+Data stored on the SD-Card:
+1. ED (Errordata) - Stores all Errors that were encountered during the usage 
+of other modules and therefore has extra “Module” and “Errormessage” 
+columns
+2. LD (Laserdata) - Stores the distance and LaserID of each measured point in 
+a laser measurement. It should be noted that LaserID and ID are two different 
+fields
+3. GD (Genericdata) - Stores the data collected using every data collecting 
+module (except Laser module) i. e. Ultrasonic distance measurements and 
+temperature, humidity and pressure of the weather sensor. Inside the File 
+are extra “Module” and “Data” fields
 
-3.Write to the EEPROM (änderungen sollen per app möglich und diese Settings dann draufschreiben) 
-SD-Karte sind die Mess-Daten / auf EEprom bleibende Daten
 Ebenfalls zu beachten bei APP:
-Es soll in der App möglich sein zu steuern ob die Messung versetzt gestartet wird (sofern z.B. an Baum befestigt)
+Es soll in der App möglich sein zu steuern ob die Messung versetzt gestartet wird (z.B. an Baum befestigt)
 app soll sich die Messpunkte ausrechnen (benötigt x y werte)
