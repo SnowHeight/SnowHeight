@@ -52,9 +52,8 @@ General informations:
 
 Handy App requirements:
 1.Read data from the SD Card in the weather station & view of the data (check if the sensors are ok)
-2.Read the EEPROM of the Controller via Bluetooth (es soll per App möglich sein, die Meta-Daten 
-(Höhe des Gerätes - wichtig für Messung der z.B. Schneehöhe, Dauer zwischen Ultraschallmessungen, Dauer zwischen Lasermessungen, 
-Dauer zwischen Laserbewegung und Lasermessung, Matrix für die Lasermessung als zweidimensionaler Array)
+2.Read the EEPROM of the Controller via Bluetooth (change Meta-Data via the App, height of the station - mandatory for measurement of the snow height, duration between ultrasonic, duration between laser measurement, 
+Duration between Laserbewegung und Lasermessung, Matrix für die Lasermessung als zweidimensionaler Array)
 
 
 3.Write to the EEPROM (änderungen sollen per app möglich und diese Settings dann draufschreiben) 
