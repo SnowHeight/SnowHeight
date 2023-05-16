@@ -1,23 +1,58 @@
 # SnowHeight
 For Documentation
 
-ToDo 12.05.23
-  1. Controller:
-    Check all components,
-    Order missing parts today!
-    Software check,
-  3. Handy App:
-    Create a concept
-  5. Verwaltungskonsole
-    Create a concept,
-    Create the database
 
-APP:
-1.Auslesen von Daten von SD Karte & grafisches Anzeigen von Daten/Kontrolle ob Sensorik aktiv ist
-2.EEprom auslesen (es soll per App möglich sein, die Meta-Daten 
+30.06.23
+
+23.06.23
+
+16.06.23
+
+02.06.23
+
+26.05.23
+  1. Controller:
+  ToDo:
+  Done:
+  2. Handy App:
+  ToDo:
+  Done:
+
+12.05.23
+  1. Controller:
+  ToDo:
+    Check all components,
+    Order missing parts,
+    Software check,
+  Done:
+    Bluetooth-Module ordered,
+    Microcontroller setup,
+    Atmel-Studio setup
+  2. Handy App:
+  ToDo:
+    Create a concept
+    Start with the app
+  Done:    
+    Concept created,
+    Mockup defined for the first page
+    
+05.05.23
+Project was selected
+Team was selected
+
+
+
+
+General informations:
+
+Handy App requirements:
+1.Read data from the SD Card in the weather station & view of the data (check if the sensors are ok)
+2.Read the EEPROM of the Controller via Bluetooth (es soll per App möglich sein, die Meta-Daten 
 (Höhe des Gerätes - wichtig für Messung der z.B. Schneehöhe, Dauer zwischen Ultraschallmessungen, Dauer zwischen Lasermessungen, 
 Dauer zwischen Laserbewegung und Lasermessung, Matrix für die Lasermessung als zweidimensionaler Array)
-3.EEProm neu beschreiben (änderungen sollen per app möglich und diese Settings dann draufschreiben) 
+
+
+3.Write to the EEPROM (änderungen sollen per app möglich und diese Settings dann draufschreiben) 
 SD-Karte sind die Mess-Daten / auf EEprom bleibende Daten
 Ebenfalls zu beachten bei APP:
 Es soll in der App möglich sein zu steuern ob die Messung versetzt gestartet wird (sofern z.B. an Baum befestigt)
