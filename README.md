@@ -26,8 +26,9 @@ For Documentation
     Software check,
   Done:
     Bluetooth-Module ordered,
-    Microcontroller setup,
+    MicroController setup,
     Atmel-Studio setup
+    Project was updated to the Controller
   2. Handy App:
   ToDo:
     Create a concept
@@ -37,8 +38,12 @@ For Documentation
     Mockup defined for the first page
     
 05.05.23
-Project was selected
-Team was selected
+ToDo:
+  Select Project
+  Select Team
+Done:
+  Project SnowHeight was selected
+  Team was selected
 
 
 
