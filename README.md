@@ -19,6 +19,7 @@ For Documentation
   ToDo: 
      Check missing parts,
      order missing lead battery,
+     
   Done:
      missing Lead Battery ordered, 
      MicroController assembled with SD Card,
@@ -32,13 +33,14 @@ For Documentation
      Humidity + Temp. Sensor - BME280,
      SD-Card-Module
      Lead Battery - EMOS 0T 9-12 - to be delivered
+     
   2. Handy App:
-     ToDo: 
+  ToDo: 
      navigations for read/write to sd card,
      load data, revise interface/UI,
      create functions for different activities, 
      Done:
-  3. ToDo:
+  ToDo:
      re-check Software,
      write specification book,
      check phone app,
