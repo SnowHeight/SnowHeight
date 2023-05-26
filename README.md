@@ -10,25 +10,52 @@ For Documentation
 
 02.06.23
 
+
+
+
+
 26.05.23
   1. Controller:
-  ToDo:
+  ToDo: 
+     Check missing parts,
+     order missing lead battery,
   Done:
+     missing Lead Battery ordered, 
+     MicroController assembled with SD Card,
+     Bluetooth-Module,Atmospheric Pressure Sensor,
+     Ultrasonic Sensor
+  
+  Hardware:
+     Ultrasonic - HCSR04,
+     RTC-Timer . ZS042,
+     Servomotor with attached Laser,
+     Humidity + Temp. Sensor - BME280,
+     SD-Card-Module
+     Lead Battery - EMOS 0T 9-12 - to be delivered
   2. Handy App:
-  ToDo:
-  Done:
-
-12.05.23
+     ToDo: 
+     navigations for read/write to sd card,
+     load data, revise interface/UI,
+     create functions for different activities, 
+     Done:
+  3. ToDo:
+     re-check Software,
+     write specification book,
+     check phone app,
+     Done:
+     defined specifications again, 
+     wrote specification book
+  12.05.23
   1. Controller:
   ToDo:
-    Check all components,
-    Order missing parts,
-    Software check,
+     Check all components,
+     Order missing parts,
+     Software check,
   Done:
-    Bluetooth-Module ordered,
-    MicroController setup,
-    Atmel-Studio setup,
-    Project was updated to the Controller,
+     Bluetooth-Module ordered,
+     MicroController setup,
+     Atmel-Studio setup,
+     Project was updated to the Controller,
       Hardware: 
       Ultrasonic - HCSR04,
       RTC-Timer . ZS042,
@@ -45,14 +72,14 @@ For Documentation
     
 05.05.23
 ToDo:
-  Select a project
-  Cerate a team
+   Select a project
+   Create a team
+   write specifications for the project
 Done:
-  Project SnowHeight was selected
-  Team was selected
-
-
-
+   Project SnowHeight was selected
+   Team was selected
+   Specifications defined
+  
 
 General informations:
 
