@@ -9,8 +9,14 @@ For Documentation
 16.06.23
 
 02.06.23
+1. Controller:
+  ToDo:
+    Initial test of the hardware
 
-
+2.HandyApp:
+  ToDo:
+    Test the Bluetooth Module
+    
 
 
 
