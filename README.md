@@ -7,6 +7,13 @@ For Documentation
 23.06.23
 
 16.06.23
+  1. Controller:
+  ToDo: final test of hardware
+
+  2. Handy-App:
+  revamp bluetooth + extras
+  
+    
 
 02.06.23
   1. Controller:
