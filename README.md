@@ -5,7 +5,11 @@ For Documentation
 30.06.23
 
 23.06.23
+  1. Controller:
+     ultrasonic messuring -> get data
 
+  2. Handy-App:
+    
 16.06.23
   1. Controller:
   ToDo: final test of hardware
