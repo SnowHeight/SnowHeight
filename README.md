@@ -6,10 +6,13 @@ For Documentation
 
 23.06.23
   1. Controller:
-     ultrasonic messuring -> get data
+     testing I²C, MISO, MOSI
+     ultrasonic
 
   2. Handy-App:
-    
+    revamp bluetooth + extras
+
+
 16.06.23
   1. Controller:
   ToDo: final test of hardware
