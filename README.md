@@ -7,7 +7,7 @@ Presentation
 
 ToDo:
      Write Data to SD Card,
-     using new SD Card,
+     using new SD Card Library,
       
      
 
